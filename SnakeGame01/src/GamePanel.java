@@ -206,3 +206,8 @@ public class GamePanel extends JPanel implements ActionListener {
 
     }
 }
+
+
+
+
+//Tried to change to a game interface but due to lack of knowlodge i could
